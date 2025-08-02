@@ -28,7 +28,9 @@ This project is originally written in **C language** and later converted into a 
   - Resource recommendations
   - Social connect (bottom)
 
-
+## 📸 Live Preview
+🔗 **Live Website:**  
+[Click here to open the project](https://gurlalbhullarz.github.io/August-2025-calendar/)
 ---
 
 ## 👨‍💻 Tech Stack
